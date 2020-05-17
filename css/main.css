@@ -1,0 +1,38 @@
+.header{
+	background-image: url(../img/first-bg.jpg);
+	min-height: 300px;
+
+	background-position:center;
+padding-top: 75px;
+	background-size: cover;
+}
+.main{
+	margin-top:15px;
+}
+.header p{
+text-align: center;
+margin-right: 92px;
+}
+img{
+	width: 100%;
+	height: auto;
+}
+.main-display{
+	display: flex;
+	min-height: 100px;
+	color: #fff;
+}
+.second-display{
+	margin: auto;
+}
+.main-title p{
+	margin-left: 83px;
+}
+.top-header {
+	text-transform: uppercase;
+	color: #fff;
+
+}
+.cards{
+	padding: : 10px;
+}
